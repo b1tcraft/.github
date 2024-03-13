@@ -11,4 +11,4 @@ Se você está interessado em contribuir para o B1tCraft, siga estes passos:
 Ao contribuir para este projeto, você concorda em seguir nosso Código de Conduta.
 
 ## Perguntas?
-Se você tiver alguma dúvida, por favor, abra uma issue ou entre em contato conosco pelo email contato@b1tcraft.org.
+Se você tiver alguma dúvida, por favor, abra uma issue ou entre em contato conosco pelo email gsbadbr@gmail.com.

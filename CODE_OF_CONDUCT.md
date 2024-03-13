@@ -18,7 +18,7 @@ Os mantenedores do projeto são responsáveis por esclarecer os padrões de comp
 Este Código de Conduta aplica-se tanto em espaços do projeto quanto em espaços públicos quando um indivíduo está representando o projeto ou sua comunidade.
 
 ## Execução
-Instâncias de comportamento abusivo, de assédio ou de outra forma inaceitável podem ser reportadas entrando em contato com a equipe do projeto em contato@b1tcraft.org. Todas as reclamações serão revisadas e investigadas e resultarão em uma resposta que seja considerada necessária e apropriada às circunstâncias.
+Instâncias de comportamento abusivo, de assédio ou de outra forma inaceitável podem ser reportadas entrando em contato com a equipe do projeto em gsbadbr@gmail.com. Todas as reclamações serão revisadas e investigadas e resultarão em uma resposta que seja considerada necessária e apropriada às circunstâncias.
 
 ## Atribuição
 Este Código de Conduta é adaptado do Contributor Covenant, versão 1.4.

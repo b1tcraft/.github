@@ -1,12 +1,17 @@
-## Hi there 👋
+# B1tCraft :hammer_and_wrench:
 
-<!--
+## Descrição :memo:
+Organização de desenvolvimento colaborativo entre amigos. Foco em soluções de software utilizando tecnologias front-end e back-end.
 
-**Here are some ideas to get you started:**
+## Tecnologias :computer:
+- Front-end: HTML5, CSS, JavaScript, React, Angular, Next.js.
+- Back-end: Java, PHP, Python, Node.js, Spring Framework, Django, Laravel.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Projetos :file_folder:
+Repositórios para desenvolvimento colaborativo de aplicações web. Acesso restrito a membros.
+
+## Colaboração :busts_in_silhouette:
+Aberto a contribuições de membros da organização.
+
+## Contato :mailbox:
+Email: gsbadbr@gmail.com

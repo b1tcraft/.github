@@ -14,9 +14,9 @@ Esta pasta contém arquivos de configuração globais que se aplicam a todos os 
 
 Os modelos de issue e pull request são utilizados automaticamente quando um colaborador cria uma nova issue ou pull request. As diretrizes de contribuição e o código de conduta estão disponíveis para consulta a qualquer momento.
 
-## Pasta Project
+## Pasta Profile
 
-Dentro da pasta `.github`, existe também uma subpasta chamada `project` que contém o `README.md` da página inicial da organização b1tcraft. Este arquivo fornece uma visão geral da organização e deve ser consultado para entender melhor os objetivos e projetos da b1tcraft.
+Dentro da pasta `.github`, existe também uma subpasta chamada `profile` que contém o `README.md` da página inicial da organização b1tcraft e outras subpastas e arquivos que dao personalidade à idéia da organização.
 
 ## Contribuição
 

@@ -1,0 +1,30 @@
+# Configurações dos modelos de issue
+templates:
+  - name: Feature
+    about: Sugira uma nova funcionalidade
+    filename: ISSUE_TEMPLATE/01-feature.yml
+  - name: Support
+    about: Relate um problema ou peça ajuda
+    filename: ISSUE_TEMPLATE/02-support.yml
+  - name: Bug
+    about: Reporte um problema ou bug
+    filename: ISSUE_TEMPLATE/03-bug.yml
+  - name: Documentation Update
+    about: Solicite uma atualização na documentação
+    filename: ISSUE_TEMPLATE/04-documentation_update.yml
+  - name: Duplicate Issue
+    about: Reporte uma issue duplicada
+    filename: ISSUE_TEMPLATE/05-duplicate_issue.yml
+  - name: Enhancement Request
+    about: Sugira uma melhoria em uma funcionalidade existente
+    filename: ISSUE_TEMPLATE/06-enhancement_request.yml
+  - name: Question
+    about: Faça uma pergunta ou solicite esclarecimentos
+    filename: ISSUE_TEMPLATE/07-question.yml
+  - name: Security Vulnerability
+    about: Relate uma vulnerabilidade de segurança
+    filename: ISSUE_TEMPLATE/08-security_vulnerability.yml
+  - name: Task
+    about: Crie uma nova tarefa a ser concluída
+    filename: ISSUE_TEMPLATE/09-task.yml
+# Adicione outros modelos conforme necessário

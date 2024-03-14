@@ -1,0 +1,14 @@
+name: Task
+about: Crie uma nova tarefa a ser concluída.
+
+description: |
+  Descreva a tarefa que precisa ser concluída.
+
+acceptance_criteria: |
+  Descreva os critérios que definem quando esta tarefa está completa.
+
+dependencies: |
+  Listar outras issues ou tarefas que esta depende, se houver.
+
+additional_info: |
+  Qualquer informação adicional ou contexto relevante.

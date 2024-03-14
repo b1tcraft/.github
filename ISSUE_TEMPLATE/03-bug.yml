@@ -1,0 +1,19 @@
+name: Bug
+about: Reporte um problema ou bug.
+
+description: |
+  Descreva o problema ou bug encontrado de forma clara e concisa.
+
+steps_to_reproduce: |
+  Descreva os passos necessários para reproduzir o bug.
+
+expected_behavior: |
+  Descreva o comportamento esperado em comparação com o observado.
+
+environment: |
+  - Sistema Operacional:
+  - Navegador (se aplicável):
+  - Versão do Software (se aplicável):
+
+additional_info: |
+  Qualquer informação adicional ou contexto relevante.

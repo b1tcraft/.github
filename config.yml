@@ -2,29 +2,29 @@
 templates:
   - name: Feature
     about: Sugira uma nova funcionalidade
-    filename: 01-feature.yml
+    filename: ISSUE_TEMPLATE/01-feature.yml
   - name: Support
     about: Relate um problema ou peça ajuda
-    filename: 02-support.yml
+    filename: ISSUE_TEMPLATE/02-support.yml
   - name: Bug
     about: Reporte um problema ou bug
-    filename: 03-bug.yml
+    filename: ISSUE_TEMPLATE/03-bug.yml
   - name: Documentation Update
     about: Solicite uma atualização na documentação
-    filename: 04-documentation_update.yml
+    filename: ISSUE_TEMPLATE/04-documentation_update.yml
   - name: Duplicate Issue
     about: Reporte uma issue duplicada
-    filename: 05-duplicate_issue.yml
+    filename: ISSUE_TEMPLATE/05-duplicate_issue.yml
   - name: Enhancement Request
     about: Sugira uma melhoria em uma funcionalidade existente
-    filename: 06-enhancement_request.yml
+    filename: ISSUE_TEMPLATE/06-enhancement_request.yml
   - name: Question
     about: Faça uma pergunta ou solicite esclarecimentos
-    filename: 07-question.yml
+    filename: ISSUE_TEMPLATE/07-question.yml
   - name: Security Vulnerability
     about: Relate uma vulnerabilidade de segurança
-    filename: 08-security_vulnerability.yml
+    filename: ISSUE_TEMPLATE/08-security_vulnerability.yml
   - name: Task
     about: Crie uma nova tarefa a ser concluída
-    filename: 09-task.yml
+    filename: ISSUE_TEMPLATE/09-task.yml
 # Adicione outros modelos conforme necessário

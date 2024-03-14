@@ -1,0 +1,8 @@
+name: Duplicate Issue
+about: Reporte uma issue duplicada.
+
+description: |
+  Descreva qual issue esta é duplicada.
+
+original_issue: |
+  Insira o link para a issue original.

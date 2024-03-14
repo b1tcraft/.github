@@ -1,0 +1,17 @@
+name: Enhancement Request
+about: Sugira uma melhoria em uma funcionalidade existente.
+
+description: |
+  Descreva a melhoria proposta de forma clara e concisa.
+
+motivation: |
+  Explique por que essa melhoria seria útil ou desejada.
+
+proposal: |
+  Sugira uma maneira de implementar essa melhoria.
+
+expected_benefits: |
+  Descreva os benefícios esperados com a implementação dessa melhoria.
+
+additional_info: |
+  Qualquer informação adicional ou contexto relevante.
